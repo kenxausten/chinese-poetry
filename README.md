@@ -1,4 +1,4 @@
-chinese-poetry
+chinese-poetry-djangoshow
 ==============
 
 [![Build Status](https://travis-ci.org/chinese-poetry/chinese-poetry.svg?branch=master)](https://travis-ci.org/chinese-poetry/chinese-poetry)
